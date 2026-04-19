@@ -1,0 +1,394 @@
+{
+  "62bfc5a18b07a6870a3f30afcd0cd98f": {
+    "question": "what do indian mackarel eat",
+    "answer": "BGC float data unavailable for this period.",
+    "sql_data": null,
+    "cached_at": "2026-04-18T23:50:58.368947",
+    "last_accessed": "2026-04-18T23:50:58.368961",
+    "hits": 0
+  },
+  "baeacff5a761e1c5285a5ccbe9e69c8d": {
+    "question": "what do pomfret eat",
+    "answer": "BGC float data unavailable for this period.",
+    "sql_data": null,
+    "cached_at": "2026-04-18T23:52:11.419173",
+    "last_accessed": "2026-04-19T00:05:15.025772",
+    "hits": 1
+  },
+  "48fbef4fc5ef9cb0d75ee7ba67289691": {
+    "question": "what do prawns eat",
+    "answer": "BGC float data unavailable for this period.",
+    "sql_data": null,
+    "cached_at": "2026-04-18T23:58:23.303910",
+    "last_accessed": "2026-04-18T23:58:23.303928",
+    "hits": 0
+  },
+  "91323b763abbeed921114af07cbf9b29": {
+    "question": "what do pomfret eat in arabian sea",
+    "answer": "BGC float data unavailable for this period.",
+    "sql_data": null,
+    "cached_at": "2026-04-19T00:05:43.794888",
+    "last_accessed": "2026-04-19T00:05:43.794904",
+    "hits": 0
+  },
+  "6a05903ef502bf96588128ce8f65e5ec": {
+    "question": "what do pomfret eat ?",
+    "answer": "Pomfret (Pampus argenteus) primarily feed on gelatinous zooplankton, including ctenophores, salps, and medusae, as well as other zooplankton groups and crustaceans, such as copepods.",
+    "sql_data": null,
+    "cached_at": "2026-04-19T16:01:35.435967",
+    "last_accessed": "2026-04-19T16:01:35.435977",
+    "hits": 0
+  },
+  "1d0b5113f32eb01b92ba7786c53066b2": {
+    "question": "what do indian mackarel eat ?",
+    "answer": "Indian mackerel (Rastrelliger kanagurta) feeds on phytoplankton and small zooplankton, including diatoms, cladocerans, ostracods, and larval polychaetes, as well as macroplankton such as larval shrimps and larval fish.",
+    "sql_data": null,
+    "cached_at": "2026-04-19T16:02:03.142052",
+    "last_accessed": "2026-04-19T16:02:03.142064",
+    "hits": 0
+  },
+  "209b34c349bc25cfd1985f18a295dd2e": {
+    "question": "when is the best time to fish pomfret in arabian sea ?",
+    "answer": "The best time to fish pomfret in the Arabian Sea is from October to December, when post-monsoon conditions improve fishing, and fish are accessible inshore, with high market demand and price.",
+    "sql_data": "region_name   depth_zone  year  month  avg_temp_celsius  avg_salinity_psu  avg_doxy_umol_kg  avg_chla_mg_m3\nArabian Sea      Surface  2026      2            26.214            35.866           196.315           0.013\nArabian Sea Bathypelagic  2026      2             5.605            35.065            58.295           0.015\nArabian Sea  Mesopelagic  2026      2            12.448            35.709            10.783           0.015\nArabian Sea   Epipelagic  2026      2            22.473            36.074            93.728           0.156\nArabian Sea Bathypelagic  2026      1             5.682            35.071            61.786           0.013\nArabian Sea   Epipelagic  2026      1            22.490            36.201            83.280           0.163\nArabian Sea  Mesopelagic  2026      1            12.694            35.764            10.901           0.015\nArabian Sea      Surface  2026      1            26.086            36.214           194.918           0.359\nArabian Sea Bathypelagic  2025     12             5.882            35.094            60.900           0.014\nArabian Sea   Epipelagic  2025     12            22.321            36.239            77.837           0.102\nArabian Sea      Surface  2025     12            26.965            36.342           195.990           0.281\nArabian Sea  Mesopelagic  2025     12            12.770            35.808            11.385           0.015\nArabian Sea Bathypelagic  2025     11             5.715            35.079            60.823           0.013\nArabian Sea      Surface  2025     11            27.861            36.363           200.769           0.487\nArabian Sea  Mesopelagic  2025     11            12.635            35.789            12.053           0.015\nArabian Sea   Epipelagic  2025     11            22.176            36.210            80.898           0.155\nArabian Sea      Surface  2025     10            28.323            36.347           196.982           0.220\nArabian Sea   Epipelagic  2025     10            22.118            36.248            85.341           0.108\nArabian Sea  Mesopelagic  2025     10            12.668            35.789            12.535           0.015\nArabian Sea Bathypelagic  2025     10             5.633            35.067            62.534           0.013\n[TRUNCATED: showing 20 most recent of 30 total rows]",
+    "cached_at": "2026-04-19T16:02:23.114090",
+    "last_accessed": "2026-04-19T16:02:23.114105",
+    "hits": 0
+  },
+  "9f829ba8775545907c461dc58d157174": {
+    "question": "can i fish pomfret during june to september in arabian sea",
+    "answer": "During June to September in the Arabian Sea, pomfret fishing is limited due to the southwest monsoon, which brings rough seas and restricts trawl access. Pomfret remains on the shelf bottom during this period.",
+    "sql_data": "region_name depth_zone  year  month  avg_temp_celsius  avg_salinity_psu  avg_doxy_umol_kg  avg_chla_mg_m3\nArabian Sea    Surface  2025      9            27.738            36.463           198.721           0.222\nArabian Sea Epipelagic  2025      9            21.880            36.342           102.003           0.112\nArabian Sea    Surface  2025      8            27.791            36.508           195.121           0.425\nArabian Sea Epipelagic  2025      8            22.149            36.447           110.146           0.151\nArabian Sea Epipelagic  2025      7            22.487            36.408           121.510           0.174\nArabian Sea    Surface  2025      7            28.477            36.481           191.823           0.380\nArabian Sea Epipelagic  2024      8            22.525            36.198           104.495           0.140\nArabian Sea    Surface  2024      8            28.103            36.358           192.186           0.189\nArabian Sea Epipelagic  2024      7            22.747            36.241            96.161           0.136\nArabian Sea    Surface  2024      7            29.117            36.373           190.310           0.257\nArabian Sea Epipelagic  2024      6            23.324            36.177            69.533           0.100\nArabian Sea    Surface  2024      6            30.368            36.207           189.973           0.052\nArabian Sea Epipelagic  2023      9            22.432            36.187            79.112           0.100\nArabian Sea    Surface  2023      9            28.071            36.292           193.130           0.071\nArabian Sea    Surface  2023      8            27.052            36.299           196.329           0.206\nArabian Sea Epipelagic  2023      8            21.851            36.235            90.201           0.104\nArabian Sea Epipelagic  2023      7            22.293            36.266            97.225           0.109\nArabian Sea    Surface  2023      7            28.264            36.426           193.255           0.219\nArabian Sea Epipelagic  2023      6            23.369            36.297            95.245           0.102\nArabian Sea    Surface  2023      6            30.458            36.533           194.163           0.047\n[TRUNCATED: showing 20 most recent of 30 total rows]",
+    "cached_at": "2026-04-19T16:03:50.861057",
+    "last_accessed": "2026-04-19T16:03:50.861076",
+    "hits": 0
+  },
+  "aaa19860db7199dc0b03ac8125f4e675": {
+    "question": "what about in bay of bengal",
+    "answer": "In the Bay of Bengal, pomfret fishing is limited from June to September due to monsoon conditions, with fish remaining on the shelf bottom. From October to December, post-monsoon conditions support artisanal fishing, with fish available inshore and marketed locally.",
+    "sql_data": "  region_name   depth_zone  year  month  avg_temp_celsius  avg_salinity_psu  avg_doxy_umol_kg  avg_chla_mg_m3\nBay of Bengal   Epipelagic  2025      9            22.552            34.333            74.359           0.108\nBay of Bengal      Surface  2025      9            29.230            32.832           193.935           0.025\nBay of Bengal  Mesopelagic  2025      9             9.683            34.998            15.019           0.017\nBay of Bengal Bathypelagic  2025      9             4.622            34.843            71.066           0.015\nBay of Bengal   Epipelagic  2025      8            22.533            34.371            62.553           0.088\nBay of Bengal      Surface  2025      8            29.385            32.989           193.314           0.050\nBay of Bengal  Mesopelagic  2025      8             9.652            35.001            14.203           0.018\nBay of Bengal Bathypelagic  2025      8             4.637            34.849            61.008           0.015\nBay of Bengal   Epipelagic  2025      7            22.756            34.372            66.912           0.092\nBay of Bengal      Surface  2025      7            29.461            33.157           192.246           0.026\nBay of Bengal  Mesopelagic  2025      7             9.593            35.000            12.145           0.018\nBay of Bengal Bathypelagic  2025      7             4.620            34.851            39.496           0.019\nBay of Bengal   Epipelagic  2025      6            22.665            34.348           129.924           0.387\nBay of Bengal      Surface  2025      6            29.845            33.037           193.785           0.037\nBay of Bengal  Mesopelagic  2025      6             9.563            35.000            16.751          -0.003\nBay of Bengal   Epipelagic  2024      9            22.187            34.455            92.210           0.313\nBay of Bengal  Mesopelagic  2024      9             9.767            34.996            29.142          -0.003\nBay of Bengal   Epipelagic  2024      8            21.837            34.405            14.875          -0.007\nBay of Bengal  Mesopelagic  2024      8             9.768            34.996            27.750           0.003\nBay of Bengal   Epipelagic  2024      7            21.740            34.343           128.774           0.323\n[TRUNCATED: showing 20 most recent of 27 total rows]",
+    "cached_at": "2026-04-19T16:04:22.611446",
+    "last_accessed": "2026-04-19T16:04:22.611464",
+    "hits": 0
+  },
+  "3467cfd2dd53fa121004e9d1cf722d87": {
+    "question": "if i want to fish for pomfret what should i keep in mind",
+    "answer": "To fish for pomfret, consider the seasonal patterns: \n- January to April: mostly offshore in deeper waters with limited catches.\n- April to June: spawning begins, with peak spawning in this period.\n- June to September: monsoon conditions limit trawl access, with fish on the shelf bottom.\n- October to December: post-monsoon conditions improve fishing, with fish accessible inshore and high market demand. \nAlso, note the species' feeding habits, primarily on gelatinous zooplankton, and its distribution in the Indo-West Pacific, particularly in the Arabian Sea, Persian Gulf, and Bay of Bengal.",
+    "sql_data": null,
+    "cached_at": "2026-04-19T16:04:42.445109",
+    "last_accessed": "2026-04-19T16:04:42.445120",
+    "hits": 0
+  },
+  "b540c76a7c36310f3ade299fc5adae95": {
+    "question": "If i want to fish in the month June which fish can i get in indian ocean",
+    "answer": "In the Indian Ocean, during June, you can fish for Indian anchovy, as monsoon conditions maintain moderate availability, and skipjack tuna, with some offshore catch possible despite monsoon conditions.",
+    "sql_data": null,
+    "cached_at": "2026-04-19T16:06:42.193367",
+    "last_accessed": "2026-04-19T16:06:42.193381",
+    "hits": 0
+  },
+  "fef05dd4f725c07bab9c080f32c62ba8": {
+    "question": "What is fish usually caught with",
+    "answer": "BGC float data unavailable for this specific combination.",
+    "sql_data": null,
+    "cached_at": "2026-04-19T16:07:06.705362",
+    "last_accessed": "2026-04-19T16:07:06.705375",
+    "hits": 0
+  },
+  "b3a5f127ec98b5dddbf7c46a31a8a54b": {
+    "question": "what is halocline how does it affect",
+    "answer": "A halocline is the depth at which salinity changes most rapidly in the ocean. It affects the ocean by creating a barrier layer that suppresses vertical mixing, reduces sea surface temperature (SST) upwelling signals, and dominates density stratification. In the Bay of Bengal, the strong near-surface halocline is formed due to freshwater river input, while in the Arabian Sea, high salinity means density is primarily temperature-controlled. The halocline also influences fish migration and spawning, such as Hilsa, which use salinity gradients for spawning migration.",
+    "sql_data": null,
+    "cached_at": "2026-04-19T16:07:45.297403",
+    "last_accessed": "2026-04-19T16:07:45.297415",
+    "hits": 0
+  },
+  "889a97dd74ce8a914a1c4874a4e65228": {
+    "question": "So icant fish ?",
+    "answer": "Argo float data is only available from January 2020 to February 2026. No recorded data exists for the period in question. However, based on the biological context, seer fish and Indian mackerel can be found in the Indian Ocean, with seer fish being a top predator and Indian mackerel being a schooling species. Seer fish can be found near reef edges and current-swept points, while Indian mackerel inhabits coastal bays, harbours, and deep lagoons, particularly in turbid, plankton-rich waters.",
+    "sql_data": null,
+    "cached_at": "2026-04-19T16:08:15.996339",
+    "last_accessed": "2026-04-19T16:08:15.996356",
+    "hits": 0
+  },
+  "2427a131b601fcb0ce9330e07e3e4717": {
+    "question": "What was the salinity in arabian sea in Jan 2021",
+    "answer": "In the Arabian Sea, the average salinity in January 2021 ranged from 35.065 to 35.975 PSU, with the most recent value being 35.975 PSU at the surface.",
+    "sql_data": "region_name   depth_zone  year  month  avg_salinity_psu\nArabian Sea Bathypelagic  2021      1            35.065\nArabian Sea   Epipelagic  2021      1            35.914\nArabian Sea  Mesopelagic  2021      1            35.530\nArabian Sea      Surface  2021      1            35.975",
+    "cached_at": "2026-04-19T16:08:46.471566",
+    "last_accessed": "2026-04-19T16:08:46.471574",
+    "hits": 0
+  },
+  "18983a22fb99e626c4132768f9bc0952": {
+    "question": "what was the salinity in bay of bengal in jan 2021 and could i have fished properly then",
+    "answer": "In the Bay of Bengal, the average salinity in January 2021 ranged from 32.538 to 35.010 PSU. Given the biological context, Hilsa and other species such as Seer fish and Prawns/Shrimp can be found in the Bay of Bengal. However, Hilsa's spawning migration is triggered by river flow and salinity gradients, and they typically inhabit areas with salinity ranging from 10-35 ppt. In January 2021, the salinity conditions may have been suitable for some species, but the fishing conditions would depend on the specific species and location.",
+    "sql_data": "  region_name   depth_zone  year  month  avg_salinity_psu\nBay of Bengal      Surface  2021      1            32.538\nBay of Bengal   Epipelagic  2021      1            34.488\nBay of Bengal Bathypelagic  2021      1            34.857\nBay of Bengal  Mesopelagic  2021      1            35.010",
+    "cached_at": "2026-04-19T16:09:24.449062",
+    "last_accessed": "2026-04-19T16:09:24.449077",
+    "hits": 0
+  },
+  "57f33ee33fdfbbc8434efcc06c65e542": {
+    "question": "what conditions are ideal for fishing prawns and what are praws goof for",
+    "answer": "Ideal conditions for fishing prawns vary by season and location. In the Bay of Bengal and Arabian Sea, peak trawling seasons occur from October to February, with optimal catches during the post-monsoon period. For aquaculture, ideal conditions are temperatures of 28\u201333\u00b0C and salinity levels of 15\u201325 ppt. Prawns are highly valued for their large size and sweet flavor, and are used in fisheries and aquaculture, with significant commercial importance worldwide, valued at approximately USD 3.65 billion in 2009.",
+    "sql_data": null,
+    "cached_at": "2026-04-19T16:10:16.260073",
+    "last_accessed": "2026-04-19T16:10:16.260085",
+    "hits": 0
+  },
+  "985f369255de33dda431688af052a621": {
+    "question": "What will the Arabian Sea surface temperature be in August 2026?",
+    "answer": "Argo float data is only available from January 2020 to February 2026. No recorded data exists for August 2026. However, the predicted surface temperature in the Arabian Sea for August 2026 is 29.458 \u00b0C.",
+    "sql_data": null,
+    "cached_at": "2026-04-19T16:14:03.480710",
+    "last_accessed": "2026-04-19T16:14:03.480726",
+    "hits": 0
+  },
+  "a956bfdfd495edd6393659e4d8c8aa02": {
+    "question": "What fish can i fish in arabain sea then in august 2026 if thats the temperature",
+    "answer": "Argo float data is only available from January 2020 to February 2026. No recorded data exists for August 2026.",
+    "sql_data": null,
+    "cached_at": "2026-04-19T16:14:33.626696",
+    "last_accessed": "2026-04-19T16:14:33.626712",
+    "hits": 0
+  },
+  "a606b564516e801b5765403a00e359f1": {
+    "question": "can you plot temperature in arabian sea in 2021 across different months",
+    "answer": "Surface temperature in the Arabian Sea in 2021: 26.320\u201328.655 \u00b0C. Most recent value: 26.320 \u00b0C (December). Trend: temperatures peaked in October (28.655 \u00b0C) and decreased towards December.",
+    "sql_data": "region_name   depth_zone  year  month  avg_temp_celsius\nArabian Sea Bathypelagic  2021     12             6.062\nArabian Sea   Epipelagic  2021     12            22.710\nArabian Sea  Mesopelagic  2021     12            13.929\nArabian Sea      Surface  2021     12            26.320\nArabian Sea Bathypelagic  2021     11             6.058\nArabian Sea   Epipelagic  2021     11            22.289\nArabian Sea  Mesopelagic  2021     11            13.622\nArabian Sea      Surface  2021     11            27.623\nArabian Sea Bathypelagic  2021     10             5.909\nArabian Sea   Epipelagic  2021     10            21.809\nArabian Sea  Mesopelagic  2021     10            13.238\nArabian Sea      Surface  2021     10            28.655\nArabian Sea Bathypelagic  2021      9             5.951\nArabian Sea   Epipelagic  2021      9            22.410\nArabian Sea  Mesopelagic  2021      9            13.391\nArabian Sea      Surface  2021      9            28.220\nArabian Sea Bathypelagic  2021      8             6.029\nArabian Sea   Epipelagic  2021      8            22.728\nArabian Sea  Mesopelagic  2021      8            13.637\nArabian Sea      Surface  2021      8            27.772\n[TRUNCATED: showing 20 most recent of 48 total rows]",
+    "cached_at": "2026-04-19T16:15:40.271842",
+    "last_accessed": "2026-04-19T16:15:40.271858",
+    "hits": 0
+  },
+  "059089c93d007457dbfecb85aa15d5cf": {
+    "question": "can you visualise it",
+    "answer": "Temperature in the Arabian Sea in 2021: \n- Surface: 26.320\u201328.655 \u00b0C\n- Epipelagic: 21.809\u201322.728 \u00b0C\n- Mesopelagic: 13.238\u201313.637 \u00b0C\n- Bathypelagic: 5.909\u20136.062 \u00b0C\n\nMost recent value (December): \n- Surface: 26.320 \u00b0C\n- Epipelagic: 22.710 \u00b0C\n- Mesopelagic: 13.929 \u00b0C\n- Bathypelagic: 6.062 \u00b0C\n\nTrend: temperatures peaked in October (Surface: 28.655 \u00b0C, Epipelagic: 22.410 \u00b0C, Mesopelagic: 13.391 \u00b0C, Bathypelagic: 5.951 \u00b0C) and decreased towards December.",
+    "sql_data": "region_name   depth_zone  year  month  avg_temp_celsius  avg_salinity_psu  avg_doxy_umol_kg  avg_chla_mg_m3\nArabian Sea Bathypelagic  2021     12             6.062            35.112            91.794           0.048\nArabian Sea   Epipelagic  2021     12            22.710            36.408           197.431           0.354\nArabian Sea  Mesopelagic  2021     12            13.929            35.953               NaN             NaN\nArabian Sea      Surface  2021     12            26.320            36.449               NaN             NaN\nArabian Sea Bathypelagic  2021     11             6.058            35.112            92.394           0.042\nArabian Sea   Epipelagic  2021     11            22.289            36.349           132.537           0.116\nArabian Sea  Mesopelagic  2021     11            13.622            35.921             6.320           0.047\nArabian Sea      Surface  2021     11            27.623            36.440               NaN             NaN\nArabian Sea Bathypelagic  2021     10             5.909            35.097            95.420           0.049\nArabian Sea   Epipelagic  2021     10            21.809            36.330               NaN             NaN\nArabian Sea  Mesopelagic  2021     10            13.238            35.866             2.456           0.043\nArabian Sea      Surface  2021     10            28.655            36.425               NaN             NaN\nArabian Sea Bathypelagic  2021      9             5.951            35.104            94.217           0.049\nArabian Sea   Epipelagic  2021      9            22.410            36.436            99.118           0.243\nArabian Sea  Mesopelagic  2021      9            13.391            35.889             1.929           0.051\nArabian Sea      Surface  2021      9            28.220            36.513               NaN             NaN\nArabian Sea Bathypelagic  2021      8             6.029            35.110            94.995           0.046\nArabian Sea   Epipelagic  2021      8            22.728            36.498            36.841           0.047\nArabian Sea  Mesopelagic  2021      8            13.637            35.941               NaN             NaN\nArabian Sea      Surface  2021      8            27.772            36.524               NaN             NaN\n[TRUNCATED: showing 20 most recent of 48 total rows]",
+    "cached_at": "2026-04-19T16:15:52.570795",
+    "last_accessed": "2026-04-19T16:15:52.570811",
+    "hits": 0
+  },
+  "770f37b051b0bb1d8c18a81072eb2e9a": {
+    "question": "how do you work",
+    "answer": "I work by processing queries based on the provided Argo float data, which covers the period from January 2020 to February 2026. I retrieve relevant data from the database, summarize it if there are more than 15 rows, and provide the results in the required format, including units such as \u00b0C, PSU, \u00b5mol/kg, and mg/m\u00b3. If the requested period is outside the database coverage, I inform the user that the data is only available from January 2020 to February 2026. If the biological context is provided, I include relevant information about marine species and oceanography.",
+    "sql_data": "region_name   depth_zone  year  month  avg_temp_celsius  avg_salinity_psu  avg_doxy_umol_kg  avg_chla_mg_m3\nArabian Sea Bathypelagic  2021     12             6.062            35.112            91.794           0.048\nArabian Sea   Epipelagic  2021     12            22.710            36.408           197.431           0.354\nArabian Sea  Mesopelagic  2021     12            13.929            35.953               NaN             NaN\nArabian Sea      Surface  2021     12            26.320            36.449               NaN             NaN\nArabian Sea Bathypelagic  2021     11             6.058            35.112            92.394           0.042\nArabian Sea   Epipelagic  2021     11            22.289            36.349           132.537           0.116\nArabian Sea  Mesopelagic  2021     11            13.622            35.921             6.320           0.047\nArabian Sea      Surface  2021     11            27.623            36.440               NaN             NaN\nArabian Sea Bathypelagic  2021     10             5.909            35.097            95.420           0.049\nArabian Sea   Epipelagic  2021     10            21.809            36.330               NaN             NaN\nArabian Sea  Mesopelagic  2021     10            13.238            35.866             2.456           0.043\nArabian Sea      Surface  2021     10            28.655            36.425               NaN             NaN\nArabian Sea Bathypelagic  2021      9             5.951            35.104            94.217           0.049\nArabian Sea   Epipelagic  2021      9            22.410            36.436            99.118           0.243\nArabian Sea  Mesopelagic  2021      9            13.391            35.889             1.929           0.051\nArabian Sea      Surface  2021      9            28.220            36.513               NaN             NaN\nArabian Sea Bathypelagic  2021      8             6.029            35.110            94.995           0.046\nArabian Sea   Epipelagic  2021      8            22.728            36.498            36.841           0.047\nArabian Sea  Mesopelagic  2021      8            13.637            35.941               NaN             NaN\nArabian Sea      Surface  2021      8            27.772            36.524               NaN             NaN\n[TRUNCATED: showing 20 most recent of 48 total rows]",
+    "cached_at": "2026-04-19T16:16:47.923851",
+    "last_accessed": "2026-04-19T16:16:47.923866",
+    "hits": 0
+  },
+  "8edbe593db59e41224c8ab891aeb77c9": {
+    "question": "when are bans imposed from fishing specific species",
+    "answer": "Bans are imposed on specific species during the following periods:\n\n- Karnataka coastal waters: June and July, to protect spawning fish stocks during the monsoon season.\n- East coast (Bay of Bengal): 45-day ban from April 15 to May 29, to protect prawn spawning adults and support juvenile recruitment.\n- West coast (Arabian Sea): 61-day ban from June 1 to July 31, to protect prawn spawning adults and support juvenile recruitment.\n- Pomfret in the Persian Gulf: fishing bans have been imposed for stock recovery due to historical declines in catch.",
+    "sql_data": "  region_name   depth_zone  year  month  avg_temp_celsius  avg_salinity_psu  avg_doxy_umol_kg  avg_chla_mg_m3\nBay of Bengal   Epipelagic  2025      9            22.552            34.333            74.359           0.108\nBay of Bengal Bathypelagic  2025      9             4.622            34.843            71.066           0.015\n  Arabian Sea  Mesopelagic  2025      9            12.310            35.742            13.141           0.014\nBay of Bengal      Surface  2025      9            29.230            32.832           193.935           0.025\n  Arabian Sea   Epipelagic  2025      9            21.880            36.342           102.003           0.112\n  Arabian Sea      Surface  2025      9            27.738            36.463           198.721           0.222\n  Arabian Sea Bathypelagic  2025      9             5.610            35.069            63.502           0.013\nBay of Bengal  Mesopelagic  2025      9             9.683            34.998            15.019           0.017\n  Arabian Sea  Mesopelagic  2025      8            12.332            35.753            13.130           0.014\n  Arabian Sea Bathypelagic  2025      8             5.598            35.068            61.110           0.014\n  Arabian Sea   Epipelagic  2025      8            22.149            36.447           110.146           0.151\nBay of Bengal   Epipelagic  2025      8            22.533            34.371            62.553           0.088\nBay of Bengal      Surface  2025      8            29.385            32.989           193.314           0.050\n  Arabian Sea      Surface  2025      8            27.791            36.508           195.121           0.425\nBay of Bengal  Mesopelagic  2025      8             9.652            35.001            14.203           0.018\nBay of Bengal Bathypelagic  2025      8             4.637            34.849            61.008           0.015\nBay of Bengal      Surface  2025      7            29.461            33.157           192.246           0.026\nBay of Bengal  Mesopelagic  2025      7             9.593            35.000            12.145           0.018\nBay of Bengal   Epipelagic  2025      7            22.756            34.372            66.912           0.092\nBay of Bengal Bathypelagic  2025      7             4.620            34.851            39.496           0.019\n[TRUNCATED: showing 20 most recent of 30 total rows]",
+    "cached_at": "2026-04-19T16:17:28.268729",
+    "last_accessed": "2026-04-19T16:17:28.268746",
+    "hits": 0
+  },
+  "64aef0cacdadb11f2e45465a0d2dd56b": {
+    "question": "what do you mean by spawning",
+    "answer": "Spawning refers to the process by which fish and other marine species reproduce, releasing eggs and sperm into the water column. This process is a critical part of the life cycle of many marine species, including the Black-banded Trevally, Seer fish, Indian anchovy, and Squid, as described in the biological context. Spawning seasons and patterns vary among species, with some species spawning continuously throughout the year, while others have specific peak spawning seasons.",
+    "sql_data": null,
+    "cached_at": "2026-04-19T16:19:00.276386",
+    "last_accessed": "2026-04-19T16:19:00.276400",
+    "hits": 0
+  },
+  "8eec49dfd0254eb6c3578fed98d21aa2": {
+    "question": "explain it to me like im 5",
+    "answer": "Spawning is when fish have babies. They lay eggs in the water, and then the eggs hatch into little fish. It's like when you were born, but fish do it in the water. Just like how you need to grow up, little fish need to grow up too, and that's why we need to protect them so they can become big and strong.",
+    "sql_data": null,
+    "cached_at": "2026-04-19T16:19:21.464278",
+    "last_accessed": "2026-04-19T16:19:21.464289",
+    "hits": 0
+  },
+  "149255ad50eb59a5b2c52a37ef388a31": {
+    "question": "What is average temperature in Arabian Sea?",
+    "answer": "Average temperature in Arabian Sea: 5.605-28.323 \u00b0C, most recent value: 26.214 \u00b0C, trend: varies by depth zone.",
+    "sql_data": "region_name   depth_zone  year  month  avg_temp_celsius\nArabian Sea      Surface  2026      2            26.214\nArabian Sea   Epipelagic  2026      2            22.473\nArabian Sea  Mesopelagic  2026      2            12.448\nArabian Sea Bathypelagic  2026      2             5.605\nArabian Sea      Surface  2026      1            26.086\nArabian Sea   Epipelagic  2026      1            22.490\nArabian Sea  Mesopelagic  2026      1            12.694\nArabian Sea Bathypelagic  2026      1             5.682\nArabian Sea      Surface  2025     12            26.965\nArabian Sea   Epipelagic  2025     12            22.321\nArabian Sea  Mesopelagic  2025     12            12.770\nArabian Sea Bathypelagic  2025     12             5.882\nArabian Sea      Surface  2025     11            27.861\nArabian Sea   Epipelagic  2025     11            22.176\nArabian Sea  Mesopelagic  2025     11            12.635\nArabian Sea Bathypelagic  2025     11             5.715\nArabian Sea      Surface  2025     10            28.323\nArabian Sea   Epipelagic  2025     10            22.118\nArabian Sea  Mesopelagic  2025     10            12.668\nArabian Sea Bathypelagic  2025     10             5.633\n[TRUNCATED: showing 20 most recent of 296 total rows]",
+    "cached_at": "2026-04-19T16:28:28.748239",
+    "last_accessed": "2026-04-19T16:28:28.748248",
+    "hits": 0
+  },
+  "65fe0e34d68f3ec0e6acdbdec3360e02": {
+    "question": "What is average temperature in Bay of Bengal?",
+    "answer": "Average temperature in Bay of Bengal: 4.561-29.411 \u00b0C, most recent value: 27.351 \u00b0C, trend: varies by depth zone.",
+    "sql_data": "  region_name   depth_zone  year  month  avg_temp_celsius\nBay of Bengal   Epipelagic  2026      2            22.570\nBay of Bengal      Surface  2026      2            27.351\nBay of Bengal Bathypelagic  2026      2             4.618\nBay of Bengal  Mesopelagic  2026      2             9.435\nBay of Bengal   Epipelagic  2026      1            22.948\nBay of Bengal Bathypelagic  2026      1             4.607\nBay of Bengal      Surface  2026      1            27.478\nBay of Bengal  Mesopelagic  2026      1             9.646\nBay of Bengal      Surface  2025     12            28.257\nBay of Bengal   Epipelagic  2025     12            22.898\nBay of Bengal Bathypelagic  2025     12             4.629\nBay of Bengal  Mesopelagic  2025     12             9.686\nBay of Bengal  Mesopelagic  2025     11             9.611\nBay of Bengal Bathypelagic  2025     11             4.561\nBay of Bengal   Epipelagic  2025     11            22.325\nBay of Bengal      Surface  2025     11            29.042\nBay of Bengal Bathypelagic  2025     10             4.648\nBay of Bengal   Epipelagic  2025     10            22.628\nBay of Bengal  Mesopelagic  2025     10             9.681\nBay of Bengal      Surface  2025     10            29.411\n[TRUNCATED: showing 20 most recent of 30 total rows]",
+    "cached_at": "2026-04-19T16:28:40.076860",
+    "last_accessed": "2026-04-19T16:28:40.076887",
+    "hits": 0
+  },
+  "77d62f005a01ba881d487ca3c47f67e8": {
+    "question": "What is oxygen level in Arabian Sea?\nWhat is salinity in Bay of Bengal?",
+    "answer": "Oxygen level in Arabian Sea: 10.783-196.315 \u00b5mol/kg, most recent value: 196.315 \u00b5mol/kg, trend: varies by depth zone.\nSalinity in Bay of Bengal: 32.779-34.988 PSU, most recent value: 32.992 PSU, trend: varies by depth zone.",
+    "sql_data": "  region_name   depth_zone  year  month  avg_doxy_umol_kg  avg_salinity_psu\n  Arabian Sea  Mesopelagic  2026      2            10.783            35.709\n  Arabian Sea Bathypelagic  2026      2            58.295            35.065\n  Arabian Sea      Surface  2026      2           196.315            35.866\nBay of Bengal Bathypelagic  2026      2            74.397            34.844\nBay of Bengal  Mesopelagic  2026      2            17.325            34.988\nBay of Bengal   Epipelagic  2026      2            62.355            34.212\n  Arabian Sea   Epipelagic  2026      2            93.728            36.074\nBay of Bengal      Surface  2026      2           204.456            32.992\nBay of Bengal      Surface  2026      1           206.730            32.779\nBay of Bengal   Epipelagic  2026      1            72.425            34.246\n  Arabian Sea   Epipelagic  2026      1            83.280            36.201\n  Arabian Sea      Surface  2026      1           194.918            36.214\nBay of Bengal  Mesopelagic  2026      1            15.508            34.998\n  Arabian Sea  Mesopelagic  2026      1            10.901            35.764\nBay of Bengal Bathypelagic  2026      1            73.012            34.851\n  Arabian Sea Bathypelagic  2026      1            61.786            35.071\n  Arabian Sea      Surface  2025     12           195.990            36.342\nBay of Bengal Bathypelagic  2025     12               NaN            34.852\n  Arabian Sea Bathypelagic  2025     12            60.900            35.094\n  Arabian Sea  Mesopelagic  2025     12            11.385            35.808\n[TRUNCATED: showing 20 most recent of 30 total rows]",
+    "cached_at": "2026-04-19T16:28:55.043359",
+    "last_accessed": "2026-04-19T16:28:55.043372",
+    "hits": 0
+  },
+  "f8d0d4bf9703a6342e631391e6457b5f": {
+    "question": "What was the temperature in Arabian Sea in May 2025?\nWhat is the latest oxygen level in Bay of Bengal?",
+    "answer": "Temperature in Arabian Sea in May 2025: 6.015-29.774 \u00b0C.\nLatest oxygen level in Bay of Bengal: 0 rows returned for oxygen level, BGC float data unavailable for this specific combination.",
+    "sql_data": "  region_name   depth_zone  year  month  avg_temp_celsius\n  Arabian Sea Bathypelagic  2025      5             6.015\n  Arabian Sea   Epipelagic  2025      5            23.317\n  Arabian Sea  Mesopelagic  2025      5            13.095\n  Arabian Sea      Surface  2025      5            29.774\nBay of Bengal Bathypelagic  2026      2            74.397\nBay of Bengal   Epipelagic  2026      2            62.355\nBay of Bengal  Mesopelagic  2026      2            17.325\nBay of Bengal      Surface  2026      2           204.456",
+    "cached_at": "2026-04-19T16:29:14.185414",
+    "last_accessed": "2026-04-19T16:29:14.185432",
+    "hits": 0
+  },
+  "a7beb8043470da5409267fcd9ba6fd36": {
+    "question": "Show recent salinity data for Arabian Sea\nWhat is surface temperature in Arabian Sea?",
+    "answer": "0 rows returned for salinity and surface temperature, BGC float data unavailable for this specific combination.",
+    "sql_data": "SQL Error: Execution failed on sql 'SELECT region_name, depth_zone, year, month, avg_temp_celsius, avg_salinity_psu FROM argo_ocean_data WHERE region_name = 'Arabian Sea' ORDER BY year DESC, month DESC LIMIT 30\nSELECT region_name, depth_zone, year, month, avg_temp_celsius FROM argo_ocean_data WHERE region_name = 'Arabian Sea' AND depth_zone = 'Surface' ORDER BY year DESC, month DESC LIMIT 30;': (psycopg2.errors.SyntaxError) syntax error at or near \"SELECT\"\nLINE 2: SELECT region_name, depth_zone, year, month, avg_temp_celsiu...\n        ^\n\n[SQL: SELECT region_name, depth_zone, year, month, avg_temp_celsius, avg_salinity_psu FROM argo_ocean_data WHERE region_name = 'Arabian Sea' ORDER BY year DESC, month DESC LIMIT 30\nSELECT region_name, depth_zone, year, month, avg_temp_celsius FROM argo_ocean_data WHERE region_name = 'Arabian Sea' AND depth_zone = 'Surface' ORDER BY year DESC, month DESC LIMIT 30;]\n(Background on this error at: https://sqlalche.me/e/20/f405)",
+    "cached_at": "2026-04-19T16:29:34.112772",
+    "last_accessed": "2026-04-19T16:29:34.112790",
+    "hits": 0
+  },
+  "fd22dda8260ecfeb5c8b935176680c06": {
+    "question": "Show recent salinity data for Arabian Sea",
+    "answer": "Salinity in Arabian Sea: 35.065-36.363 PSU, most recent value: 36.074 PSU, trend: varies by depth zone.",
+    "sql_data": "region_name   depth_zone  year  month  avg_salinity_psu\nArabian Sea      Surface  2026      2            35.866\nArabian Sea Bathypelagic  2026      2            35.065\nArabian Sea  Mesopelagic  2026      2            35.709\nArabian Sea   Epipelagic  2026      2            36.074\nArabian Sea Bathypelagic  2026      1            35.071\nArabian Sea   Epipelagic  2026      1            36.201\nArabian Sea  Mesopelagic  2026      1            35.764\nArabian Sea      Surface  2026      1            36.214\nArabian Sea Bathypelagic  2025     12            35.094\nArabian Sea   Epipelagic  2025     12            36.239\nArabian Sea      Surface  2025     12            36.342\nArabian Sea  Mesopelagic  2025     12            35.808\nArabian Sea Bathypelagic  2025     11            35.079\nArabian Sea      Surface  2025     11            36.363\nArabian Sea  Mesopelagic  2025     11            35.789\nArabian Sea   Epipelagic  2025     11            36.210\nArabian Sea      Surface  2025     10            36.347\nArabian Sea   Epipelagic  2025     10            36.248\nArabian Sea  Mesopelagic  2025     10            35.789\nArabian Sea Bathypelagic  2025     10            35.067\n[TRUNCATED: showing 20 most recent of 30 total rows]",
+    "cached_at": "2026-04-19T16:29:42.805509",
+    "last_accessed": "2026-04-19T16:29:42.805524",
+    "hits": 0
+  },
+  "de021ab6fa0012be6b31b2e66a82db04": {
+    "question": "What is surface temperature in Arabian Sea?",
+    "answer": "Surface temperature in Arabian Sea: 26.214 \u00b0C.",
+    "sql_data": "region_name depth_zone  year  month  avg_temp_celsius\nArabian Sea    Surface  2026      2            26.214",
+    "cached_at": "2026-04-19T16:29:49.542975",
+    "last_accessed": "2026-04-19T16:29:49.542996",
+    "hits": 0
+  },
+  "0aa299cc4ea0de47eb93330fd7c4c594": {
+    "question": "What is oxygen level in mesopelagic zone in Bay of Bengal?",
+    "answer": "Oxygen level in the mesopelagic zone in the Bay of Bengal: 48.813 \u00b5mol/kg.",
+    "sql_data": "  region_name  depth_zone  year  month  avg_doxy_umol_kg\nBay of Bengal Mesopelagic  2023     10            48.813",
+    "cached_at": "2026-04-19T16:30:00.800865",
+    "last_accessed": "2026-04-19T16:30:00.800879",
+    "hits": 0
+  },
+  "a3d4e41bd95e0bbb770081ee2229960c": {
+    "question": "What do mackerel eat?",
+    "answer": "Mackerel feed on phytoplankton, small zooplankton including diatoms, cladocerans, ostracods, and larval polychaetes, and also consume macroplankton such as larval shrimps and larval fish, as well as fish eggs immediately after spawning events.",
+    "sql_data": null,
+    "cached_at": "2026-04-19T16:30:51.812131",
+    "last_accessed": "2026-04-19T16:30:51.812143",
+    "hits": 0
+  },
+  "f47b3fd8933b5d0fce323427fbe0f90c": {
+    "question": "What do sardines feed on?",
+    "answer": "Sardines feed on phytoplankton (diatoms, dinoflagellates) and zooplankton (copepods), primarily large diatoms such as Fragilaria oceanica.",
+    "sql_data": null,
+    "cached_at": "2026-04-19T16:31:01.680583",
+    "last_accessed": "2026-04-19T16:31:01.680588",
+    "hits": 0
+  },
+  "cb15a8c53906be277c132cb09177dcc0": {
+    "question": "What is the habitat of Indian mackerel?",
+    "answer": "Indian mackerel inhabits marine pelagic-neritic environments at depths of 20\u201390 m, with temperatures ranging from 17\u00b0C to 30\u00b0C and a preferred temperature around 27\u00b0C. They are found in coastal bays, harbours, and deep lagoons, particularly in turbid, plankton-rich waters.",
+    "sql_data": null,
+    "cached_at": "2026-04-19T16:32:03.034917",
+    "last_accessed": "2026-04-19T16:32:03.034929",
+    "hits": 0
+  },
+  "45b95c4be458d1581b0bffc22d2e10b2": {
+    "question": "How do tuna migrate?",
+    "answer": "DATABASE RESULT: None \nBIOLOGICAL CONTEXT: None \n\nArgo float data is only available from January 2020 to February 2026. No recorded data exists for tuna migration.",
+    "sql_data": null,
+    "cached_at": "2026-04-19T16:32:08.313738",
+    "last_accessed": "2026-04-19T16:32:08.313767",
+    "hits": 0
+  },
+  "1f6524edbe536df0ce3ad8d70c38248e": {
+    "question": "Why do fish aggregate around FADs?",
+    "answer": "DATABASE RESULT: None \nBIOLOGICAL / SCIENTIFIC CONTEXT: Fish aggregate around FADs (Fish Aggregating Devices) due to the presence of food, such as plankton and small invertebrates, which are attracted to the structure. FADs provide a habitat for these organisms, and in turn, attract larger fish. Additionally, FADs can offer fish a sense of security and protection from predators.",
+    "sql_data": null,
+    "cached_at": "2026-04-19T16:32:22.975389",
+    "last_accessed": "2026-04-19T16:32:22.975407",
+    "hits": 0
+  },
+  "57cf60926aad2f9e612af07e17577c5f": {
+    "question": "How does upwelling affect fish distribution?",
+    "answer": "Upwelling affects fish distribution by altering the availability of nutrients, phytoplankton, and zooplankton, which in turn impacts fish foraging, growth, and migration. In the Arabian Sea, coastal upwelling during the monsoon season leads to harmful algal blooms, which can deplete oxygen and alter the food web structure, negatively impacting local fisheries. In the Bay of Bengal, primary productivity driven by upwelling and river flow influences hilsa distribution and abundance. Indian oil sardine distribution is also restricted to areas with upwelling, such as the southwest Indian coast, where they congregate during and after the southwest monsoon upwelling.",
+    "sql_data": "region_name depth_zone  year  month  avg_temp_celsius  avg_salinity_psu  avg_doxy_umol_kg  avg_chla_mg_m3\nArabian Sea Epipelagic  2026      2            22.473            36.074            93.728           0.156\nArabian Sea    Surface  2026      1            26.086            36.214           194.918           0.359\nArabian Sea Epipelagic  2026      1            22.490            36.201            83.280           0.163\nArabian Sea    Surface  2025     12            26.965            36.342           195.990           0.281\nArabian Sea    Surface  2025     11            27.861            36.363           200.769           0.487\nArabian Sea Epipelagic  2025     11            22.176            36.210            80.898           0.155\nArabian Sea    Surface  2025     10            28.323            36.347           196.982           0.220\nArabian Sea    Surface  2025      9            27.738            36.463           198.721           0.222\nArabian Sea    Surface  2025      8            27.791            36.508           195.121           0.425\nArabian Sea Epipelagic  2025      8            22.149            36.447           110.146           0.151\nArabian Sea    Surface  2025      7            28.477            36.481           191.823           0.380\nArabian Sea Epipelagic  2025      7            22.487            36.408           121.510           0.174\nArabian Sea    Surface  2025      1            26.034            36.192           192.496           0.315\nArabian Sea Epipelagic  2025      1            22.193            36.170            76.025           0.149\nArabian Sea    Surface  2024     12            27.439            36.259           192.041           0.196\nArabian Sea    Surface  2024      8            28.103            36.358           192.186           0.189\nArabian Sea    Surface  2024      7            29.117            36.373           190.310           0.257\nArabian Sea    Surface  2023      8            27.052            36.299           196.329           0.206\nArabian Sea    Surface  2023      7            28.264            36.426           193.255           0.219\nArabian Sea Epipelagic  2023      5            22.502            36.175             9.542           0.175\n[TRUNCATED: showing 20 most recent of 30 total rows]",
+    "cached_at": "2026-04-19T16:32:39.924878",
+    "last_accessed": "2026-04-19T16:32:39.924907",
+    "hits": 0
+  },
+  "8e1ccb2bab572e0cc9f8c15998850742": {
+    "question": "Where do tuna live?",
+    "answer": "Tuna inhabit marine pelagic-oceanic environments, with different species having varying depth and temperature ranges. \n- Yellowfin tuna: 1-1,602 m depth, 15-31\u00b0C temperature, typically 0-250 m.\n- Skipjack tuna: 0-260 m depth, 14.7-30\u00b0C temperature, primarily 0-100 m.\nBoth species are found in tropical and subtropical seas, with specific distributions in the Indian Ocean, Arabian Sea, and other regions.",
+    "sql_data": null,
+    "cached_at": "2026-04-19T16:32:49.259995",
+    "last_accessed": "2026-04-19T16:32:49.260009",
+    "hits": 0
+  },
+  "014b21912b43b300f413e92fe243abd7": {
+    "question": "What conditions do shrimp prefer?",
+    "answer": "Shrimp (Penaeus monodon) prefer temperatures of 23-33\u00b0C and salinity of 2-34 PSU, with optimal growth at 28-33\u00b0C and 15-25 PSU.",
+    "sql_data": null,
+    "cached_at": "2026-04-19T16:33:02.775040",
+    "last_accessed": "2026-04-19T16:33:02.775045",
+    "hits": 0
+  },
+  "52dfaa44ae8447dfd68a12b8f261b79b": {
+    "question": "When do fish spawn?",
+    "answer": "Hilsa: January to February (juvenile movement), March to April (pre-monsoon spawning), May to June (main spawning migration), peak spawning June to September. \nThryssa cuvierii and Thryssa mystax: Peak spawning November to March.",
+    "sql_data": null,
+    "cached_at": "2026-04-19T16:33:14.466585",
+    "last_accessed": "2026-04-19T16:33:14.466602",
+    "hits": 0
+  },
+  "8fa8d07d80444552cf8abf234325de3d": {
+    "question": "What habitat do tuna prefer?",
+    "answer": "Tuna prefer marine pelagic-oceanic environments with varying depth and temperature ranges. \n- Yellowfin tuna: 1-1,602 m depth, 15-31\u00b0C temperature, typically 0-250 m.\n- Skipjack tuna: 0-260 m depth, 14.7-30\u00b0C temperature, primarily 0-100 m.",
+    "sql_data": null,
+    "cached_at": "2026-04-19T16:33:29.733393",
+    "last_accessed": "2026-04-19T16:33:29.733417",
+    "hits": 0
+  },
+  "9e1cf8661aaea51408359258189d9235": {
+    "question": "average temperature in arabian sea and the typical range",
+    "answer": "Average temperature in the Arabian Sea: 12.448-28.323\u00b0C. \nTypical range: 5.605-28.323\u00b0C.",
+    "sql_data": "region_name   depth_zone  year  month  avg_temp_celsius  avg_salinity_psu  avg_doxy_umol_kg  avg_chla_mg_m3\nArabian Sea      Surface  2026      2            26.214            35.866           196.315           0.013\nArabian Sea   Epipelagic  2026      2            22.473            36.074            93.728           0.156\nArabian Sea  Mesopelagic  2026      2            12.448            35.709            10.783           0.015\nArabian Sea Bathypelagic  2026      2             5.605            35.065            58.295           0.015\nArabian Sea      Surface  2026      1            26.086            36.214           194.918           0.359\nArabian Sea   Epipelagic  2026      1            22.490            36.201            83.280           0.163\nArabian Sea  Mesopelagic  2026      1            12.694            35.764            10.901           0.015\nArabian Sea Bathypelagic  2026      1             5.682            35.071            61.786           0.013\nArabian Sea      Surface  2025     12            26.965            36.342           195.990           0.281\nArabian Sea   Epipelagic  2025     12            22.321            36.239            77.837           0.102\nArabian Sea  Mesopelagic  2025     12            12.770            35.808            11.385           0.015\nArabian Sea Bathypelagic  2025     12             5.882            35.094            60.900           0.014\nArabian Sea      Surface  2025     11            27.861            36.363           200.769           0.487\nArabian Sea   Epipelagic  2025     11            22.176            36.210            80.898           0.155\nArabian Sea  Mesopelagic  2025     11            12.635            35.789            12.053           0.015\nArabian Sea Bathypelagic  2025     11             5.715            35.079            60.823           0.013\nArabian Sea      Surface  2025     10            28.323            36.347           196.982           0.220\nArabian Sea   Epipelagic  2025     10            22.118            36.248            85.341           0.108\nArabian Sea  Mesopelagic  2025     10            12.668            35.789            12.535           0.015\nArabian Sea Bathypelagic  2025     10             5.633            35.067            62.534           0.013\n[TRUNCATED: showing 20 most recent of 296 total rows]",
+    "cached_at": "2026-04-19T16:35:16.241905",
+    "last_accessed": "2026-04-19T16:35:16.241920",
+    "hits": 0
+  },
+  "288e6fff8ce3eb842aef78692fec67d6": {
+    "question": "How did you calculate these values tell in brief",
+    "answer": "Unable to generate an answer right now. Please try again.",
+    "sql_data": "LLM failed to generate SQL.",
+    "cached_at": "2026-04-19T16:39:37.347740",
+    "last_accessed": "2026-04-19T16:39:37.347755",
+    "hits": 0
+  },
+  "e56813958b805e546cf8d100296f9147": {
+    "question": "average temperature in arabian sea and the typical range and how did you calculate",
+    "answer": "Unable to generate an answer right now. Please try again.",
+    "sql_data": "LLM failed to generate SQL.",
+    "cached_at": "2026-04-19T16:40:13.864086",
+    "last_accessed": "2026-04-19T16:40:13.864109",
+    "hits": 0
+  },
+  "d024812648c4f6f8991c73ad42b4eab7": {
+    "question": "What do prawsn eat",
+    "answer": "Prawns eat organic detritus, benthic algae, small invertebrates, worms, molluscs, other crustaceans, and organic matter on muddy or sandy bottoms.",
+    "sql_data": null,
+    "cached_at": "2026-04-19T18:42:26.913817",
+    "last_accessed": "2026-04-19T18:42:26.913839",
+    "hits": 0
+  },
+  "6c15e82bbab3455e47aa034c1511e105": {
+    "question": "what was the salinity level in bob in2024",
+    "answer": "In the Bay of Bengal in 2024, the salinity level ranged from 32.686 to 35.002 PSU. The most recent value was 34.857 PSU in the Bathypelagic zone in December. PSU",
+    "sql_data": "  region_name   depth_zone  year  month  avg_salinity_psu\nBay of Bengal Bathypelagic  2024     12            34.857\nBay of Bengal      Surface  2024     12            33.130\nBay of Bengal  Mesopelagic  2024     12            35.002\nBay of Bengal   Epipelagic  2024     12            34.504\nBay of Bengal   Epipelagic  2024     11            34.560\nBay of Bengal      Surface  2024     11            33.055\nBay of Bengal  Mesopelagic  2024     11            35.000\nBay of Bengal Bathypelagic  2024     11            34.853\nBay of Bengal   Epipelagic  2024     10            34.474\nBay of Bengal      Surface  2024     10            32.686\nBay of Bengal  Mesopelagic  2024     10            34.996\nBay of Bengal Bathypelagic  2024     10            34.850\nBay of Bengal   Epipelagic  2024      9            34.455\nBay of Bengal      Surface  2024      9            33.290\nBay of Bengal  Mesopelagic  2024      9            34.996\nBay of Bengal Bathypelagic  2024      9            34.852\nBay of Bengal   Epipelagic  2024      8            34.405\nBay of Bengal      Surface  2024      8            33.251\nBay of Bengal  Mesopelagic  2024      8            34.996\nBay of Bengal Bathypelagic  2024      8            34.854\n[TRUNCATED: showing 20 most recent of 30 total rows]",
+    "cached_at": "2026-04-19T18:43:03.820486",
+    "last_accessed": "2026-04-19T18:43:03.820496",
+    "hits": 0
+  },
+  "f07c56af656cdb4750b6c81f2a1aaec7": {
+    "question": "Where should I fish for tuna in May?",
+    "answer": "In May, tuna can be found in the Arabian Sea and Bay of Bengal. The average temperature in these regions ranges from 22.262 to 31.216\u00b0C, with the Arabian Sea having an average temperature of 29.815-30.609\u00b0C and the Bay of Bengal having an average temperature of 30.019-31.216\u00b0C. The average salinity ranges from 32.797 to 36.623 PSU. \n\nConsidering the preferred temperature of yellowfin tuna (28\u00b0C) and skipjack tuna (27\u00b0C), the Bay of Bengal surface waters with temperatures around 30.019-31.216\u00b0C and the Arabian Sea surface waters with temperatures around 29.815-30.609\u00b0C may be suitable for tuna fishing in May.",
+    "sql_data": "  region_name depth_zone  year  month  avg_temp_celsius  avg_salinity_psu  avg_doxy_umol_kg  avg_chla_mg_m3\n  Arabian Sea    Surface  2025      5            29.774            36.268               NaN             NaN\nBay of Bengal    Surface  2025      5            30.664            32.797               NaN             NaN\n  Arabian Sea Epipelagic  2025      5            23.317            36.386               NaN             NaN\nBay of Bengal Epipelagic  2025      5            23.254            34.284            31.211           0.085\n  Arabian Sea    Surface  2024      5            30.609            35.960           191.304           0.013\nBay of Bengal    Surface  2024      5            31.216            32.970               NaN             NaN\n  Arabian Sea Epipelagic  2024      5            23.561            36.139            85.291           0.098\nBay of Bengal Epipelagic  2024      5            22.262            34.287           128.432           0.347\n  Arabian Sea    Surface  2023      5            29.987            36.459               NaN             NaN\nBay of Bengal    Surface  2023      5            30.417            32.860               NaN             NaN\nBay of Bengal Epipelagic  2023      5            23.101            34.366               NaN             NaN\n  Arabian Sea Epipelagic  2023      5            22.502            36.175             9.542           0.175\n  Arabian Sea    Surface  2022      5            29.815            36.623               NaN             NaN\nBay of Bengal    Surface  2022      5            30.019            33.003               NaN             NaN\n  Arabian Sea Epipelagic  2022      5            22.967            36.406           221.543           0.104\nBay of Bengal Epipelagic  2022      5            22.644            34.288               NaN             NaN\n  Arabian Sea    Surface  2021      5            30.052            36.545               NaN             NaN\nBay of Bengal    Surface  2021      5            30.750            32.659               NaN             NaN\n  Arabian Sea Epipelagic  2021      5            23.308            36.497               NaN             NaN\nBay of Bengal Epipelagic  2021      5            23.196            34.248               NaN             NaN\n[TRUNCATED: showing 20 most recent of 24 total rows]",
+    "cached_at": "2026-04-19T18:43:21.135647",
+    "last_accessed": "2026-04-19T18:43:21.135666",
+    "hits": 0
+  }
+}

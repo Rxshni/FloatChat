@@ -1,0 +1,31 @@
+# ── CORE WEB FRAMEWORK ───────────────────────────────────────────────────────
+streamlit
+
+# ── LLM & LANGCHAIN ───────────────────────────────────────────────────────────
+groq
+langchain
+langchain-community
+langchain-core
+langchain-huggingface
+langchain-chroma
+
+# ── VECTOR DB ─────────────────────────────────────────────────────────────────
+chromadb
+sentence-transformers                  # powers all-MiniLM-L6-v2 embeddings
+
+# ── SQL / DATABASE ────────────────────────────────────────────────────────────
+sqlalchemy
+psycopg2-binary                        # PostgreSQL driver
+python-dotenv
+
+# ── DATA & ML ─────────────────────────────────────────────────────────────────
+pandas
+numpy
+scikit-learn
+python-dateutil
+
+# ── VISUALIZATION ─────────────────────────────────────────────────────────────
+plotly
+
+# ── ARGO DATA DOWNLOAD ────────────────────────────────────────────────────────
+argopy

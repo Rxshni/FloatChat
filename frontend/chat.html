@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>FloatChat | Chat</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body class="chat-page">
+  <div class="chat-shell">
+    <header class="chat-topbar">
+      <a href="index.html" class="chat-brand">FloatChat</a>
+      <button class="profile-dot" aria-label="Profile"></button>
+    </header>
+
+    <main class="chat-main" id="chat-main" aria-live="polite">
+      <div class="chat-thread" id="chat-thread">
+        <div class="message-row bot-row">
+          <div class="message-bubble bot-bubble">Welcome to FloatChat. Ask me anything.</div>
+        </div>
+      </div>
+    </main>
+
+    <footer class="chat-input-wrap">
+      <div class="chat-input-bar">
+        <input
+          id="chat-input"
+          class="chat-input"
+          type="text"
+          placeholder="Message FloatChat..."
+          autocomplete="off"
+        />
+        <button id="send-btn" class="send-btn" type="button">Send</button>
+      </div>
+    </footer>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
